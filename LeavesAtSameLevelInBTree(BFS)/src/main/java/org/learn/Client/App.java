@@ -34,7 +34,7 @@ public class App
        if(isLeafAtSameLevel) {
     	   System.out.println("Leaves are at same level");
        } else {
-    	   System.out.println("Leaves are not same level");
+    	   System.out.println("Leaves are not at same level");
        }
        
        //Connect level 2 and level 3
@@ -44,7 +44,7 @@ public class App
        if(isLeafAtSameLevel) {
     	   System.out.println("Leaves are at same level");
        } else {
-    	   System.out.println("Leaves are not same level");
+    	   System.out.println("Leaves are not at same level");
        }
     }
 }
