@@ -1,0 +1,1 @@
+Check whether all leaves of binary tree at same level
